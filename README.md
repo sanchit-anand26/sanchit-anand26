@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/sanchit-anand26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;AI+%26+Healthcare+Tech+Enthusiast;C%2B%2B+Problem+Solver;Open+to+Internship+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;AI+Enthusiast;C%2B%2B+Problem+Solver;Open+to+Internship+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
